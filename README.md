@@ -8,6 +8,13 @@
 
 由于全键盘的尺寸较大，PCB与外壳加工成本较高，而数字键盘的PCB和外壳尺寸可以控制在10cm×10cm以内，成本不高，所以非常适合客制化或者diy玩家。
 
+## 成品展示
+
+以下是成品展示
+![Image text](https://github.com/DylanLi0720/num_keyboard/blob/main/04%20Docs/02%20images/%E6%95%B0%E5%AD%97%E9%94%AE%E7%9B%98_A.jpg)
+
+![Image text](https://github.com/DylanLi0720/num_keyboard/blob/main/04%20Docs/02%20images/%E6%95%B0%E5%AD%97%E9%94%AE%E7%9B%98_B.jpg)
+
 ## 结构简介
 - 01 hardware_numKeyboard文件夹是键盘的硬件电路文档
 - 02 software_numKeyboard文件夹是键盘的软件文档，使用CMake构建工程
