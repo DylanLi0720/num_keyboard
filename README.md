@@ -15,6 +15,13 @@
 
 ![Image text](https://github.com/DylanLi0720/num_keyboard/blob/main/04%20Docs/02%20images/%E6%95%B0%E5%AD%97%E9%94%AE%E7%9B%98_B.jpg)
 
+## 功能测试
+全键无冲测试
+![Image text](https://github.com/DylanLi0720/num_keyboard/blob/main/04%20Docs/02%20images/%E5%85%A8%E9%94%AE%E6%97%A0%E5%86%B2%E6%B5%8B%E8%AF%95.jpeg)
+
+USB扩展测试
+![Image text](https://github.com/DylanLi0720/num_keyboard/blob/main/04%20Docs/02%20images/USB%E6%89%A9%E5%B1%95%E6%B5%8B%E8%AF%95.jpeg)
+
 ## 结构简介
 - 01 hardware_numKeyboard文件夹是键盘的硬件电路文档
 - 02 software_numKeyboard文件夹是键盘的软件文档，使用CMake构建工程
