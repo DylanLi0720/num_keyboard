@@ -3,6 +3,8 @@
 ## 声明
 
 本项目是在瀚文的SDK上进行的二次开发，属于个人项目，未经允许，任何人不能用于任何公用或商业用途。
+视频演示：[【为稚晖君的瀚文键盘适配了一块数字小键盘】](https://www.bilibili.com/video/BV1ehNzzAEnd/?share_source=copy_web&vd_source=9c6d89b2e59cfca924fe04722711dc71)
+工程链接：[numPad](https://oshwhub.com/luke2333/numpad_duplication)
 
 ## 前言
 
